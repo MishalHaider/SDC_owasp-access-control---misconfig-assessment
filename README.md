@@ -26,3 +26,21 @@ See [report/OWASP-Assessment-Report-Member2.pdf](report/OWASP-Assessment-Report-
 ## Disclaimer
 All testing was performed exclusively in authorized lab environments. 
 No live, production, or third-party systems were tested.
+
+
+
+# 👤 Author
+
+**Mishal Haider**\
+
+Cybersecurity Professional 
+
+LinkedIn: [www.linkedin.com/in/mishal-haider-9b750b37a)
+
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity(Red Team) at SDC | **Week:** 01 | **Project:** OWASP Assessment Toolkit | Access Control | Misconfig Assessment | **Repository:** GitHub
+
+
